@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Estadísticas de Iván Hernández](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[](https://github-readme-stats.vercel.app/api?username=iherrec)](https://github.com/iherrec/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=iherrec)](https://github.com/iherrec/github-readme-stats)
